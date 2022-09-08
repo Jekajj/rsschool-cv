@@ -1,4 +1,4 @@
-[rsschool-cv]([rsschool-cv/](https://jekajj.github.io/rsschool-cv/))
+[rsschool-cv](https://jekajj.github.io/rsschool-cv/cv)
 ===
 
 # Yevhen Kravets
@@ -46,3 +46,4 @@ alert(sq);
 * Ukrainian: native
 * Russian: native
 * German: A1
+
