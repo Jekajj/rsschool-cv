@@ -46,4 +46,3 @@ alert(sq);
 * Ukrainian: native
 * Russian: native
 * German: A1
-
